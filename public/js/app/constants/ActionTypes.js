@@ -1,0 +1,7 @@
+export const DATA_FETCHED = 'DATA_FETCHED';
+export const DATA_SUCCEEDED = 'DATA_SUCCEEDED';
+export const DATA_FAILED = 'DATA_FAILED';
+
+export const JSON_REQUEST = 'JSON_REQUEST';
+export const JSON_FAILURE = 'JSON_FAILURE';
+export const JSON_SUCCESS = 'JSON_SUCCESS';
